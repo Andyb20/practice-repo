@@ -1,27 +1,19 @@
-## First Name Last Name
+## Weds Byssainthe
 
-### Term Year 
+### summer b 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- calculus 1
 
-- Course 2
-
-- Course 3
-
-- Course 4
+- intro to data science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
-
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
-
+-music
+-working out
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/10
